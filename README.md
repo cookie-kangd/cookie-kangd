@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 
 </pre> 
 
-### ⭐️ &nbsp;Github Star
-
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cookie-kangd&count_private=true&show_icons=true"/>
-
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
