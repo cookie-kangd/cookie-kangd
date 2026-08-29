@@ -27,7 +27,7 @@ Here are some ideas to get you started:
      
 <strong>Hi, I am DK!👋 </strong>
 
-<strong>A Front worker from China🇨🇳. </strong>
+<strong>A AI Engineer Over-weight Front worker from China🇨🇳. </strong>
 
 </pre> 
 
